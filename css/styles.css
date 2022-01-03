@@ -89,4 +89,10 @@ footer ul li a
         transform: rotate(270deg); 
         margin-top:150px;
     }
+    footer
+    {
+        top: 150px;
+        transform: scale(1);
+        flex-direction: column;
+    }
 }
