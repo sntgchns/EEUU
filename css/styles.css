@@ -91,7 +91,7 @@ footer ul li a
     }
     footer
     {
-        bottom: 50px;
+        bottom: 5px;
         transform: scale(1);
         flex-direction: column;
     }
