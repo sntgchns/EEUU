@@ -36,7 +36,11 @@ footer
     align-items: center;
     bottom: 20px;    
 }
-footer h3
+footer a
+{
+    text-decoration: none;
+}
+footer a h3
 {
     font-size: 1.5rem;
     font-weight: 600;
